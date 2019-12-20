@@ -1,0 +1,9 @@
+# Project template
+- layout: top-middle
+  name: INTRODUCCION AL SOFTWARE
+  link: https://drive.google.com/drive/folders/1z0cbKmg2P67yNzZjY7ZE31dexjmuWTsQ
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Esto es todo lo relacionado a la introduccion de la Ing en Software
+  description: | # this will include new lines to allow paragraphs
+    Para mas informacion en mis cuentas proporcionadas en el cabezera
