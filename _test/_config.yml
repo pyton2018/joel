@@ -26,7 +26,7 @@ googleplus_username: +jekyll
 # about_title: About Me (Use this to override about section title)
 about_profile_image: _test/images/profile.jpeg
 about_content: > # this means to ignore newlines until the next config item.
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Write an awesome description about yourself here, this supports markdown, so you can add [links](https://pyton2018.github.io/biografia/) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else markdown supports.
 
